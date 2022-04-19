@@ -1,4 +1,4 @@
-# Game analysis Website
+# Travelu Guide Website
 
 Click here for [Travelu guide website](https://traveluu.netlify.app/).
 
