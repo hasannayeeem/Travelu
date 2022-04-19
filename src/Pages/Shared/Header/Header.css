@@ -1,0 +1,19 @@
+nav{
+    margin: 20px 0;
+    width: 100%;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 40px;
+    color: purple;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+@media screen and (max-width: 600px) {
+    nav a {
+        font-size: 14px;
+        margin-right: 15px;
+        justify-content: center;
+    }
+}
