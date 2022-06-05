@@ -1,0 +1,12 @@
+.review-card{
+    /* border: 1px solid gray; */
+    padding: 10px 20px;
+    /* margin: 20px; */
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    /* width: 329px;
+    height: 476px; */
+}
+.rating{ 
+    font-weight: 600;
+    font-size: 18px;
+}

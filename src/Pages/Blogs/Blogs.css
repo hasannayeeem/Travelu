@@ -1,0 +1,10 @@
+.div-blogs h2{
+    text-align: left;
+}
+.div-blogs p{
+    font-size: 18px;
+}
+.div-blogs{
+    width: 90%;
+    margin: 0 auto;
+}

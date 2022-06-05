@@ -1,0 +1,22 @@
+.customer-reviews{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    grid-gap: 25px;
+    margin-top: 40px;
+    
+}
+.customer-reviews img{
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .customer-reviews{
+        grid-template-columns:repeat(1, 1fr);
+    }
+}
